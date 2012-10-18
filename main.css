@@ -1,0 +1,84 @@
+body {
+	text-align: center;
+}
+
+div.main {	
+	margin-left: auto;
+	margin-right: auto;
+	width: 30em;
+}
+
+div.article {	
+	margin-left: auto;
+	margin-right: auto;
+	width: 40em;
+}
+
+td {
+	colspan: 2;
+}
+
+td.scroll {
+	colspan: 1;
+}
+
+td.header {
+	color: white;
+	background-color: gray;
+	font-weight: bold;
+	font-size: 130%;
+	text-align: center;
+}
+
+td.subject {
+	color: blue;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+td.date {
+	color: gray;
+	font-weight: bold;
+	font-size: 90%
+}
+
+td.author {
+	color: black;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+td.text {
+	color: black;
+	font-size: 90%;
+}
+
+td.scroll {
+	font-size: 125%;
+}
+
+td.article_subject {
+	color: black;
+	font-weight: bold;
+	font-size: 150%;
+	
+}
+
+td.article_author {
+	color: gray;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+td.article_date {
+	color: gray;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+td.article_text {
+	color: black;
+}
+
+td.article_link {
+}
